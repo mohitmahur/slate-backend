@@ -86,9 +86,4 @@ This project is open-source and available under the **MIT License**.
 ## 🤝 Contributing
 Feel free to **fork** this repository and submit **pull requests**. Suggestions & improvements are always welcome!
 
-## 📬 Contact
-For queries or collaborations, reach out at **your-email@example.com**.
-
----
-⭐ **If you like this project, don't forget to star the repository!** ⭐
 
