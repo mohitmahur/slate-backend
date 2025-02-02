@@ -22,8 +22,8 @@ This is a **Role-Based Authentication System** built using Django and Django RES
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/mohitmahur/slate-backend.git
+cd slate-backend
 ```
 
 ### 2️⃣ Create a virtual environment & activate it:
